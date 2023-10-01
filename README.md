@@ -1,6 +1,6 @@
 ![Introduction](./intro.gif)
 
-## 👋 Hello !
+## 👋 Hello, I'm Mohamed Faji !
 
 🌐 Full-Stack Web Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast
 
