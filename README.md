@@ -1,4 +1,6 @@
-## 👋 Hello, I'm Mohamed FAJI!
+![Introduction](./intro.gif)
+
+## 👋 Hello !
 
 🌐 Full-Stack Web Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast
 
